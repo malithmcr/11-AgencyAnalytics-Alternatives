@@ -22,7 +22,7 @@ We focused on:
 
 ---
 
-## 1. ZapDigits
+## 1. [ZapDigits](https://zapdigits.com/)
 
 ZapDigits is built for agencies that want flexible dashboards and clean client reporting without being locked into rigid reporting templates.
 
